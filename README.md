@@ -1,10 +1,22 @@
-## Hello there 👋
+## 👋 Hi, I'm John
 
-My name is John and I am a student at Lackawanna College in Pennsylvania. My major is Cybersecurity🔐.
+I'm a Cybersecurity student at Lackawanna College (Scranton, PA) with a strong focus on defensive security, SOC operations, and Python scripting.
 
-I am new to GitHub and coding in general, but I am looking to sharpen my skills in Python🐍.
+### 🔐 What I’m Working On
+- Associate Degree in Cybersecurity
+- My SOC-style homelab  
+- Python scripting projects  
+- CompTIA A+ and Security+  
+- My cybersecurity portfolio website
 
-- 🔭 I’m currently working on obtaining my associates degree in Cybersecurity
-- 🌱 I’m currently learning Python🐍 (really learning, not just vibe coding)
-- 📫 How to reach me: Through my college email
-- ⚡ Fun fact: I love to play guitar🎸
+### 🧠 What I’m Learning
+- Python scripting for cybersecurity  
+- Windows & Linux system administration  
+- Networking fundamentals (ARP, subnetting, WinRM, RPC)  
+- Virtualization with VMware Workstation  
+
+### 🌐 My Website
+**https://johnbelcher.dev**
+
+### 🎸 Fun Stuff
+When I’m not scripting or wrapped up in terminal windows, I’m usually playing guitar or video games.
