@@ -6,7 +6,8 @@ I'm a Cybersecurity student at Lackawanna College (Scranton, PA) with a strong f
 - Associate Degree in Cybersecurity
 - My SOC-style homelab  
 - Python scripting projects  
-- CompTIA A+ and Security+  
+- CompTIA Security+ Cert
+- Cisco Certified Network Associate (CCNA) Cert
 - My cybersecurity portfolio website
 
 ### 🧠 What I’m Learning
