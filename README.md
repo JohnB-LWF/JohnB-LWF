@@ -3,7 +3,7 @@
 I'm a Cybersecurity student at Lackawanna College (Scranton, PA) with a strong focus on defensive security, SOC operations, and Python scripting.
 
 ### 🔐 What I’m Working On
-- Associate Degree in Cybersecurity
+- Associate's Degree in Cybersecurity
 - My SOC-style homelab  
 - Python scripting projects  
 - CompTIA Security+ Cert
