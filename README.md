@@ -16,7 +16,7 @@ I'm a Cybersecurity student at Lackawanna College (Scranton, PA) with a strong f
 - Networking fundamentals (ARP, subnetting, WinRM, RPC)  
 - Virtualization with VMware Workstation
 
-### What I'm Reading
+### 📘 What I'm Reading
  - "A World Appears: A Journey Into Consciousness" by Michael Pollan
 
 ### 🌐 My Website
