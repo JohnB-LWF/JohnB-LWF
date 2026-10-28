@@ -14,10 +14,13 @@ I'm a Cybersecurity student at Lackawanna College (Scranton, PA) with a strong f
 - Python scripting for cybersecurity  
 - Windows & Linux system administration  
 - Networking fundamentals (ARP, subnetting, WinRM, RPC)  
-- Virtualization with VMware Workstation  
+- Virtualization with VMware Workstation
+
+### What I'm Reading
+ - "A World Appears: A Journey Into Consciousness" by Michael Pollan
 
 ### 🌐 My Website
 **https://johnbelcher.dev**
 
 ### 🎸 Fun Stuff
-When I’m not scripting or wrapped up in terminal windows, I’m usually playing guitar or video games.
+When I’m not scripting or wrapped up in terminal windows, I’m usually playing guitar, video games, or reading a book.
